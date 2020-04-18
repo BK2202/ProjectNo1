@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Name | Street Food</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container" onclick="myFunction(this)">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+        </div>
+        <h1 class="logo">STEAK</h1>
+            <nav>
+            <ul class="navlinks">
+            <li><a href="#">Menus</a></li>
+            <li><a href="#">Our Story</a></li>
+            <li><a href="#">Contact Us</a></li>
+            <li><a href="#" class="bookNowNav">Book Now</a></li>
+            </ul>
+            </nav>
+        <div class="socials">
+        <img src="images/instagram.png" class="socialbutton" style="width:25px;height:25px;">
+        <img src="Images/facebook.png" class="socialbutton" style="width:25px;height:25px;">
+        <img src="Images/twitter.png" class="socialbutton" style="width:25px;height:25px;">
+            </div>
+</header>
+    
+    <script>
+function myFunction(x) {
+  x.classList.toggle("change");
+}
+</script>
+    
+    <script>
+    const navSlide = () => {
+    const container = document.querySelector('.container');
+    const nav = document.querySelector('.navlinks');
+    
+    container.addEventListener('click', () => {
+        nav.classList.toggle('nav-active');
+
+});
+}
+    
+navSlide();
+    </script>
+    
+</body>
+    
+</html>
