@@ -119,9 +119,6 @@ nav {
         background-color: #1d1d1d;
     }
 
-    .socials {
-        display: none; 
-    }
         
     .container {
     cursor: pointer;
@@ -155,3 +152,4 @@ nav {
     }
  
 }
+
