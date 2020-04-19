@@ -25,6 +25,7 @@ header {
     background-color: #222222;
     height: 10vh;
     min-height: 65px;
+    width: 100%;
 }
 
 .logo {
@@ -172,7 +173,8 @@ nav {
 @media (max-width:850px) {
     header {
         height: 60px;
-        justify-content: center; 
+        justify-content: center;
+        width: 100%; 
 
     }
 
@@ -303,6 +305,7 @@ nav {
     .menu-heading {
         font-size: 11px;
         line-break: auto;
+        width: 100%;
     }
     .menu-heading p{
         font-size: 13.5px;
