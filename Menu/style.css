@@ -34,11 +34,13 @@ header {
     letter-spacing: .3em;
     font-size: 17px;
     text-align: center;
+    -webkit-user-select: none;
 }
 
 nav {
     display: inline-flex; 
     z-index: 9999;
+    -webkit-user-select: none;
 }
 
 .navlinks {
@@ -78,7 +80,7 @@ nav {
     height: 30vh;
     position: relative;
     display: flex;
-    margin: 2vh;
+    margin: 1vh;
 }
 
 .img2 {
@@ -89,7 +91,7 @@ nav {
     height: 30vh;
     position: relative;
     display: flex;
-    margin: 2vh;
+    margin: 1vh;
 }
 .img3 {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
@@ -99,7 +101,7 @@ nav {
     height: 30vh;
     position: relative;
     display: flex;
-    margin: 2vh;
+    margin: 1vh;
 }
 .img4 {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
@@ -109,7 +111,7 @@ nav {
     height: 30vh;
     position: relative;
     display: flex;
-    margin: 2vh;
+    margin: 1vh;
 }
 .img5 {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
@@ -119,7 +121,7 @@ nav {
     height: 30vh;
     position: relative;
     display: flex;
-    margin: 2vh;
+    margin: 1vh;
 }
 .img6 {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
@@ -129,7 +131,7 @@ nav {
     height: 30vh;
     position: relative;
     display: flex;
-    margin: 2vh;
+    margin: 1vh;
 }
 
 
@@ -158,6 +160,7 @@ nav {
     padding: 25px;
     font-family: 'Bebas Neue', cursive;
     color: #222222;
+    -webkit-user-select: none;
 }
 .menu-heading h1{
     font-family: 'Bebas Neue', cursive;
