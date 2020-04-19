@@ -306,10 +306,10 @@ nav {
         margin: 0;
     }
     .menu-heading {
-        height: 90px;
+        height: 70px;
     }
     .menu-heading h1{
-        font-size: 40px;
+        font-size: 60px;
     }
 
     .image {
@@ -319,4 +319,13 @@ nav {
     .image:hover {
         filter: grayscale(50) brightness(+1.5);
 }
+}
+
+@media (max-width:420) {
+    .menu-heading {
+        height: 80px;
+    }
+    .menu-heading h1{
+        font-size: 20px;
+    }
 }
