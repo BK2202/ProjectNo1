@@ -10,7 +10,7 @@ body {
 li, a, button {
     font-family: 'Roboto Slab', serif;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 22px;
     color: #ffffff;
     text-decoration: none; 
     padding: 0 3px;
@@ -19,7 +19,7 @@ li, a, button {
 
 header {
     display: flex; 
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 10px 10px;;
     background-color: #222222;
@@ -55,18 +55,18 @@ nav {
 }
 
 .navlinks li a:hover {
-    color: rgb(194, 255, 250);
+    color: rgb(179, 179, 179);
 }
 
        
 
-@media (min-width:851px) {
+@media (min-width:901px) {
     .container{ 
     display: none;
     }
 }
 
-@media (max-width:850px) {
+@media (max-width:900px) {
     header {
         height: 60px;
         justify-content: center; 
