@@ -74,7 +74,7 @@ nav {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
     url(images/drink.jpg);
     background-size: cover;
-    width: 400px;
+    width: 430px;
     height: 30vh;
     position: relative;
     display: flex;
@@ -85,7 +85,7 @@ nav {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
     url(images/lunch.jpg);
     background-size: cover;
-    width: 400px;
+    width: 430px;
     height: 30vh;
     position: relative;
     display: flex;
@@ -95,7 +95,7 @@ nav {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
     url(images/main.jpg);
     background-size: cover;
-    width: 400px;
+    width: 430px;
     height: 30vh;
     position: relative;
     display: flex;
@@ -105,7 +105,7 @@ nav {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
     url(images/dessert.jpg);
     background-size: cover;
-    width: 400px;
+    width: 430px;
     height: 30vh;
     position: relative;
     display: flex;
@@ -115,7 +115,7 @@ nav {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
     url(images/vegetarian.jpg);
     background-size: cover;
-    width: 400px;
+    width: 430px;
     height: 30vh;
     position: relative;
     display: flex;
@@ -125,7 +125,7 @@ nav {
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
     url(images/kids.jpg);
     background-size: cover;
-    width: 400px;
+    width: 430px;
     height: 30vh;
     position: relative;
     display: flex;
