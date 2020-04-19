@@ -38,6 +38,7 @@ header {
 
 nav {
     display: inline-flex; 
+    z-index: 9999;
 }
 
 .navlinks {
