@@ -147,8 +147,6 @@ nav {
     font-size: 50px;
     letter-spacing: 3px;
     text-shadow: 4px 4px #1d1d1d;
-    text-decoration: none;
-    text-transform: inherit;
 }
 
 .menu-heading {
@@ -279,41 +277,40 @@ nav {
 
 
     .img1 {
-        height: 25vh;
-        width: 420px;
-        margin: 5px;
+        height: 30vh;
+        width: 380px;
+        margin: 0;
     }
     .img2 {
-        height: 25vh;
-        width: 420px;
-        margin: 5px;
+        height: 30vh;
+        width: 380px;
+        margin: 0;
     }
     .img3 {
-        height: 25vh;
-        width: 420px;
-        margin: 5px;
+        height: 30vh;
+        width: 380px;
+        margin: 0;
     }
     .img4 {
-        height: 25vh;
-        width: 420px;
-        margin: 5px;
+        height: 30vh;
+        width: 380px;
+        margin: 0;
     }
     .img5 {
-        height: 25vh;
-        width: 420px;
-        margin: 5px;
+        height: 30vh;
+        width: 380px;
+        margin: 0;
     }
     .img6 {
-        height: 25vh;
-        width: 420px;
-        margin: 5px;
+        height: 30vh;
+        width: 380px;
+        margin: 0;
     }
     .menu-heading {
-        line-break: auto;
-        height: 50px;
+        height: 90px;
     }
     .menu-heading h1{
-        font-size: 60px;;
+        font-size: 50px;;
     }
 
     .image {
